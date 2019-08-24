@@ -9,8 +9,13 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 Thanks to all the [contributors](https://github.com/suenot/awesome-visual-programming/graphs/contributors), this wouldn't be possible without you!
 
 - [Awesome visual programming](#awesome-visual-programming)
+  - [AI](#ai)
   - [Other](#other)
 - [Contributing](#contributing)
+
+## AI
+
+- [lobe](https://lobe.ai/)
 
 ## Other
 
