@@ -15,10 +15,11 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
 
 ## AI
 
-- [lobe](https://lobe.ai/)
+- [Lobe](https://lobe.ai/)
 
 ## Other
 
+- [Noflojs](https://noflojs.org/)
 - [LUNA](https://luna-lang.org/) - support multiple languages
 - [ThreeNodes](https://github.com/idflood/ThreeNodes.js)
 
