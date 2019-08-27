@@ -10,12 +10,17 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
 
 - [Awesome visual programming](#awesome-visual-programming)
   - [AI](#ai)
+  - [CMS](#cms)
   - [Other](#other)
 - [Contributing](#contributing)
 
 ## AI
 
 - [Lobe](https://lobe.ai/)
+
+## CMS
+
+- [Totaljs](https://www.totaljs.com/flow/)
 
 ## Other
 
