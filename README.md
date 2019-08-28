@@ -25,6 +25,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
 ## Other
 
 - [Noflojs](https://noflojs.org/)
+- [Rosmaro](https://rosmaro.js.org/)
 - [LUNA](https://luna-lang.org/) - support multiple languages
 - [ThreeNodes](https://github.com/idflood/ThreeNodes.js)
 
