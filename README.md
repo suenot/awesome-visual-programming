@@ -24,6 +24,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
 
 ## Other
 
+- [Flowhub](https://flowhub.io/)
 - [Noflojs](https://noflojs.org/)
 - [Rosmaro](https://rosmaro.js.org/)
 - [LUNA](https://luna-lang.org/) - support multiple languages
