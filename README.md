@@ -29,6 +29,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
 - [Rosmaro](https://rosmaro.js.org/)
 - [LUNA](https://luna-lang.org/) - support multiple languages
 - [ThreeNodes](https://github.com/idflood/ThreeNodes.js)
+- [Rete.js](https://rete.js.org/#/docs) - js library for creating visual blocks
 
 ## Contributing
 
