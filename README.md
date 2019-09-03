@@ -12,6 +12,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
   - [AI](#ai)
   - [DB](#db)
   - [CMS](#cms)
+  - [Scratch](#scratch)
   - [Other](#other)
 - [Contributing](#contributing)
 
@@ -26,6 +27,10 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
 ## CMS
 
 - [Totaljs](https://www.totaljs.com/flow/)
+
+## Scratch
+
+- [Blockly](https://developers.google.com/blockly/) - Scratch for js
 
 ## Other
 
