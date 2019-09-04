@@ -13,6 +13,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
   - [DB](#db)
   - [CMS](#cms)
   - [Scratch](#scratch)
+  - [vvvv](#vvvv)
   - [Other](#other)
 - [Contributing](#contributing)
 
@@ -31,6 +32,10 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
 ## Scratch
 
 - [Blockly](https://developers.google.com/blockly/) - Scratch for js
+
+# Vvvv
+
+- [Vvvvjs](http://lab.vvvvjs.com/) - Vvvv for js
 
 ## Other
 
