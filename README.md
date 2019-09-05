@@ -14,6 +14,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
   - [CMS](#cms)
   - [Scratch](#scratch)
   - [vvvv](#vvvv)
+  - [Libraries for creating visual blocks](#libraries-for-creating-visual-blocks)
   - [Other](#other)
 - [Contributing](#contributing)
 
@@ -37,14 +38,19 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
 
 - [Vvvvjs](http://lab.vvvvjs.com/) - Vvvv for js
 
+
+## Libraries for creating visual blocks
+
+- [Rete.js](https://rete.js.org/#/docs) - js library for creating visual blocks
+- [gojs](https://gojs.net/latest/samples/index.html)
+
 ## Other
 
 - [Flowhub](https://flowhub.io/)
 - [Noflojs](https://noflojs.org/)
-- [Rosmaro](https://rosmaro.js.org/)
 - [LUNA](https://luna-lang.org/) - support multiple languages
 - [ThreeNodes](https://github.com/idflood/ThreeNodes.js)
-- [Rete.js](https://rete.js.org/#/docs) - js library for creating visual blocks
+- [Rosmaro](https://rosmaro.js.org/)
 
 ## Contributing
 
