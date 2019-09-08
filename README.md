@@ -37,6 +37,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
 ## Vvvv
 
 - [Vvvvjs](http://lab.vvvvjs.com/) - Vvvv for js
+- [ThreeNodes](https://github.com/idflood/ThreeNodes.js) - vvvv "clone" in javascript/webgl
 
 
 ## Libraries for creating visual blocks
