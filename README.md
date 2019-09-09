@@ -24,7 +24,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
 
 ## DB
 
-- [IDVP](https://idvp.io)
+- [IDVP](https://idvp.io) - [article in russian](https://vk.com/@istary-its-alive)
 
 ## CMS
 
