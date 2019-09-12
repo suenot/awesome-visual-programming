@@ -14,6 +14,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
   - [CMS](#cms)
   - [Scratch](#scratch)
   - [vvvv](#vvvv)
+  - [drakon](#drakon)
   - [Libraries for creating visual blocks](#libraries-for-creating-visual-blocks)
   - [Other](#other)
 - [Contributing](#contributing)
@@ -39,6 +40,9 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
 - [Vvvvjs](http://lab.vvvvjs.com/) - Vvvv for js
 - [ThreeNodes](https://github.com/idflood/ThreeNodes.js) - vvvv "clone" in javascript/webgl
 
+## Drakon
+
+- [drakonhub](https://drakonhub.com/en/drakon)
 
 ## Libraries for creating visual blocks
 
