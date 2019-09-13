@@ -43,6 +43,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
 ## Drakon
 
 - [drakonhub](https://drakonhub.com/en/drakon)
+- [about lang (article in russian)](https://habr.com/ru/post/345320/)
 
 ## Libraries for creating visual blocks
 
