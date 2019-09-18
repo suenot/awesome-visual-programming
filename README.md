@@ -15,6 +15,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
   - [Scratch](#scratch)
   - [vvvv](#vvvv)
   - [drakon](#drakon)
+  - [unity](#unity)
   - [Libraries for creating visual blocks](#libraries-for-creating-visual-blocks)
   - [Other](#other)
 - [Contributing](#contributing)
@@ -44,6 +45,10 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
 
 - [drakonhub](https://drakonhub.com/en/drakon)
 - [about lang (article in russian)](https://habr.com/ru/post/345320/)
+
+## Unity
+
+- [bolt](https://assetstore.unity.com/packages/tools/visual-scripting/bolt-87491)
 
 ## Libraries for creating visual blocks
 
