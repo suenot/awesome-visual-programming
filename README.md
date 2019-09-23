@@ -51,6 +51,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
 - [bolt](https://assetstore.unity.com/packages/tools/visual-scripting/bolt-87491)
 - [FlowCanvas](https://assetstore.unity.com/packages/tools/visual-scripting/flowcanvas-33903)
 - [unode](https://assetstore.unity.com/packages/tools/visual-scripting/unode-visual-scripting-101176)
+- [discourse](https://assetstore.unity.com/packages/tools/visual-scripting/discourse-146948)
 
 ## Libraries for creating visual blocks
 
