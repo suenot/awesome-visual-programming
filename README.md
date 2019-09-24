@@ -52,6 +52,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
 - [FlowCanvas](https://assetstore.unity.com/packages/tools/visual-scripting/flowcanvas-33903)
 - [unode](https://assetstore.unity.com/packages/tools/visual-scripting/unode-visual-scripting-101176)
 - [discourse](https://assetstore.unity.com/packages/tools/visual-scripting/discourse-146948)
+- [UI Graph](https://assetstore.unity.com/packages/tools/visual-scripting/ui-graph-a-menu-system-for-unity-151846) - menu system
 
 ## Libraries for creating visual blocks
 
