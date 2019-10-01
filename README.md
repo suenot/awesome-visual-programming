@@ -16,6 +16,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
   - [vvvv](#vvvv)
   - [drakon](#drakon)
   - [unity](#unity)
+  - [hardware](#hardware)
   - [Libraries for creating visual blocks](#libraries-for-creating-visual-blocks)
   - [Other](#other)
 - [Contributing](#contributing)
@@ -54,6 +55,10 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
 - [unode](https://assetstore.unity.com/packages/tools/visual-scripting/unode-visual-scripting-101176)
 - [discourse](https://assetstore.unity.com/packages/tools/visual-scripting/discourse-146948)
 - [UI Graph](https://assetstore.unity.com/packages/tools/visual-scripting/ui-graph-a-menu-system-for-unity-151846) - menu system
+
+## Hardware
+
+- [xod](https://xod.io/)
 
 ## Libraries for creating visual blocks
 
