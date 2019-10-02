@@ -58,6 +58,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
 
 ## Hardware
 
+- [labview](https://www.ni.com/ru-ru/shop/labview/labview-nxg.html)
 - [xod](https://xod.io/)
 
 ## Libraries for creating visual blocks
