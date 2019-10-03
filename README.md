@@ -60,6 +60,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
 
 - [labview](https://www.ni.com/ru-ru/shop/labview/labview-nxg.html)
 - [xod](https://xod.io/)
+- [nodered](https://nodered.org/)
 
 ## Libraries for creating visual blocks
 
