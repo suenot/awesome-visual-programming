@@ -46,15 +46,15 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
 
 ## Drakon
 
-- [drakonhub](https://drakonhub.com/en/drakon)
-- [about lang (article in russian)](https://habr.com/ru/post/345320/)
+- [Drakonhub](https://drakonhub.com/en/drakon)
+- [About lang (article in russian)](https://habr.com/ru/post/345320/)
 
 ## Unity
 
-- [bolt](https://assetstore.unity.com/packages/tools/visual-scripting/bolt-87491)
+- [Bolt](https://assetstore.unity.com/packages/tools/visual-scripting/bolt-87491)
 - [FlowCanvas](https://assetstore.unity.com/packages/tools/visual-scripting/flowcanvas-33903)
 - [unode](https://assetstore.unity.com/packages/tools/visual-scripting/unode-visual-scripting-101176)
-- [discourse](https://assetstore.unity.com/packages/tools/visual-scripting/discourse-146948)
+- [Discourse](https://assetstore.unity.com/packages/tools/visual-scripting/discourse-146948)
 - [UI Graph](https://assetstore.unity.com/packages/tools/visual-scripting/ui-graph-a-menu-system-for-unity-151846) - menu system
 
 ## Unreal Engine
@@ -62,14 +62,14 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
 
 ## Hardware
 
-- [labview](https://www.ni.com/ru-ru/shop/labview/labview-nxg.html)
-- [xod](https://xod.io/)
-- [nodered](https://nodered.org/)
+- [Labview](https://www.ni.com/ru-ru/shop/labview/labview-nxg.html)
+- [Xod](https://xod.io/)
+- [Nodered](https://nodered.org/)
 
 ## Libraries for creating visual blocks
 
 - [Rete.js](https://rete.js.org/#/docs) - js library for creating visual blocks
-- [gojs](https://gojs.net/latest/samples/index.html)
+- [Gojs](https://gojs.net/latest/samples/index.html)
 
 ## Other
 
