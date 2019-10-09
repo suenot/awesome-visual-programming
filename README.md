@@ -15,6 +15,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
   - [Scratch](#scratch)
   - [Vvvv](#vvvv)
   - [Drakon](#drakon)
+  - [CAD](#cad)
   - [Unity](#unity)
   - [Unreal Engine](#unreal-engine)
   - [Hardware](#hardware)
@@ -48,6 +49,10 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
 
 - [Drakonhub](https://drakonhub.com/en/drakon)
 - [About lang (article in russian)](https://habr.com/ru/post/345320/)
+
+## CAD
+
+- [Graphscad](http://graphscad.blogspot.com/)
 
 ## Unity
 
