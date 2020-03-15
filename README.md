@@ -66,6 +66,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
 - [Labview](https://www.ni.com/ru-ru/shop/labview/labview-nxg.html)
 - [Xod](https://xod.io/)
 - [Nodered](https://nodered.org/)
+- [Visuino](https://www.visuino.com/) - for Arduino
 
 ## Libraries for creating visual blocks
 
