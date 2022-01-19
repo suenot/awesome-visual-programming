@@ -46,6 +46,13 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
 - [Drakonhub](https://drakonhub.com/en/drakon)
 - [About lang (article in russian)](https://habr.com/ru/post/345320/)
 
+## Grasshopper
+
+- https://www.rhino3d.com/ru/6/new/grasshopper/
+- https://www.grasshopper3d.com/
+- https://github.com/mcneel/rhino3dm - using grasshopper in python/js
+- https://github.com/mcneel/rhino-developer-samples
+
 ## CAD
 
 - [Graphscad](http://graphscad.blogspot.com/)
