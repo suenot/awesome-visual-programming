@@ -76,6 +76,8 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
 - [Visuino](https://www.visuino.com/) - for Arduino
 
 ## Libraries for creating visual blocks
+- [Cytoscapre js](https://js.cytoscape.org/) - the best lib to visual blocks
+- [Cytoscapre plugin: edge-to-edge connection](https://github.com/dmx-systems/cytoscape-edge-connections) - extension for [edge-to-edge connection](https://github.com/cytoscape/cytoscape.js/issues/1217)
 - [Rete.js](https://rete.js.org/#/docs) - js library for creating visual blocks
 - [Gojs](https://gojs.net/latest/samples/index.html) - Interactive JavaScript Diagrams for the Web
 - [JointJs](https://www.jointjs.com/) - commercial library for creating app with diagrams
