@@ -19,6 +19,10 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
   - [Other](#other)
 - [Contributing](#contributing)
 
+## Framework
+
+- [Deep.foundation](https://deep.foundation/) - multilanguage framework where code, business logic and neural network live in one associative space
+
 ## AI
 
 - [Lobe](https://lobe.ai/)
