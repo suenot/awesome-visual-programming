@@ -23,6 +23,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
 ## Framework
 
 - [Deep.foundation](https://deep.foundation/) - multilanguage framework where code, business logic and neural network live in one associative space
+- [TotalJs](https://www.totaljs.com/flow/)
 
 ## AI
 
