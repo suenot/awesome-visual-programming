@@ -82,6 +82,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
 - [Visuino](https://www.visuino.com/) - for Arduino
 
 ## Libraries for creating visual blocks
+- [ReactFlow](https://reactflow.dev/) - awesome library on React js
 - [Cytoscapre js](https://js.cytoscape.org/) - the best lib to visual blocks
   - [Cytoscapre plugin: edge-to-edge connection](https://github.com/dmx-systems/cytoscape-edge-connections) - extension for [edge-to-edge connection](https://github.com/cytoscape/cytoscape.js/issues/1217)
 - [Graphviz](https://graphviz.org)
