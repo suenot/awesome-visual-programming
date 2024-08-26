@@ -6,6 +6,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
 
 - [Awesome visual programming](#awesome-visual-programming)
   - [Framework](#framework)
+  - [Blockchain](#blockchain)
   - [AI](#ai)
   - [DB](#db)
   - [CMS](#cms)
