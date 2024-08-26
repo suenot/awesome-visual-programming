@@ -25,9 +25,12 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-visual-progra
 - [Deep.foundation](https://deep.foundation/) - multilanguage framework where code, business logic and neural network live in one associative space
 - [TotalJs](https://www.totaljs.com/flow/)
 
-## AI
+## Blockchain
+- [Cyb.ai](https://cyb.ai/) - decentralized ai
 
+## AI
 - [Lobe](https://lobe.ai/)
+- [ENSO](https://ensoanalytics.com/)
 
 ## DB
 
