@@ -77,6 +77,7 @@ Contributions welcome! See [CONTRIBUTING](CONTRIBUTING.md).
 
 ### Libraries & Node Editors
 - [React Flow](https://reactflow.dev/) - React-based node editor.
+- [Sequential Workflow Designer](https://github.com/nocode-js/sequential-workflow-designer) - Visual flow builder.
 - [Cytoscape.js](https://js.cytoscape.org/) - Graph visualization:
   - [Edge Connections Plugin](https://github.com/dmx-systems/cytoscape-edge-connections) - Edge-to-edge connections.
 - [Drawflow](https://github.com/jerosoler/Drawflow) - Lightweight flow library.
